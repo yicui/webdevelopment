@@ -9,3 +9,5 @@ Lectures:
 [Some Basic CSS Techniques](https://github.com/yicui/webdevelopment/wiki/Some-Basic-CSS-Techniques) ([gist](https://gist.github.com/4597504))
 
 [Introduction to JavaScript](https://github.com/yicui/webdevelopment/wiki/Introduction-to-JavaScript) ([gist](https://gist.github.com/4597504))
+
+[Programming with jQuery and its Plugins](https://github.com/yicui/webdevelopment/wiki/Programming-with-jQuery-and-its-Plugins)
