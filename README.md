@@ -10,8 +10,8 @@ Lectures:
 
 [Introduction to JavaScript](https://github.com/yicui/webdevelopment/wiki/Introduction-to-JavaScript) ([gist](https://gist.github.com/yicui/4597504/d96375c8e8166bbcb005ca16dec79ffa547099ce))
 
-[Programming with jQuery and its Plugins](https://github.com/yicui/webdevelopment/wiki/Programming-with-jQuery-and-its-Plugins) ([gist](https://gist.github.com/4597504)
+[Programming with jQuery and its Plugins](https://github.com/yicui/webdevelopment/wiki/Programming-with-jQuery-and-its-Plugins) ([gist](https://gist.github.com/4597504))
 
 [Introduction to PHP and MySQL](https://github.com/yicui/webdevelopment/wiki/Introduction-to-PHP-and-MySQL)
 
-[Introduction to AJAX](https://github.com/yicui/webdevelopment/wiki/Introduction-to-AJAX) ([gist](https://gist.github.com/yicui/4508014)
+[Introduction to AJAX](https://github.com/yicui/webdevelopment/wiki/Introduction-to-AJAX) ([gist](https://gist.github.com/yicui/4508014))
