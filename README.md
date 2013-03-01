@@ -12,6 +12,8 @@ Lectures:
 
 [Programming with jQuery and its Plugins](https://github.com/yicui/webdevelopment/wiki/Programming-with-jQuery-and-its-Plugins) ([gist](https://gist.github.com/4597504))
 
-[Introduction to PHP and MySQL](https://github.com/yicui/webdevelopment/wiki/Introduction-to-PHP-and-MySQL)
+[Introduction to PHP and MySQL](https://github.com/yicui/webdevelopment/wiki/Introduction-to-PHP-and-MySQL) ([code](https://github.com/yicui/sample_app_php/commit/ebcb596a8551c5d14f72a3353b10eb63aa8e523d))
 
 [Introduction to AJAX](https://github.com/yicui/webdevelopment/wiki/Introduction-to-AJAX) ([gist](https://gist.github.com/yicui/4508014))
+
+[SQL Injection and Input Validation](https://github.com/yicui/webdevelopment/wiki/SQL-Injection-and-Input-Validation) ([code](https://github.com/yicui/sample_app_php/commit/0a8b91edc379b5593a97d6fc2cc9aff2f4b0754a))
