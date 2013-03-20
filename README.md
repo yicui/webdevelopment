@@ -17,3 +17,5 @@ Lectures:
 [Introduction to AJAX](https://github.com/yicui/webdevelopment/wiki/Introduction-to-AJAX) ([gist](https://gist.github.com/yicui/4508014))
 
 [SQL Injection and Input Validation](https://github.com/yicui/webdevelopment/wiki/SQL-Injection-and-Input-Validation) ([code](https://github.com/yicui/sample_app_php/commit/0a8b91edc379b5593a97d6fc2cc9aff2f4b0754a))
+
+[Pagination](https://github.com/yicui/webdevelopment/wiki/Pagination) ([code](https://github.com/yicui/sample_app_php/commit/7b2a12ced2c7582c4ad2a5e8a5ca40d511a97fc0))
