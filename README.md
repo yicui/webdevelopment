@@ -19,3 +19,5 @@ Lectures:
 [SQL Injection and Input Validation](https://github.com/yicui/webdevelopment/wiki/SQL-Injection-and-Input-Validation) ([code](https://github.com/yicui/sample_app_php/commit/0a8b91edc379b5593a97d6fc2cc9aff2f4b0754a))
 
 [Pagination](https://github.com/yicui/webdevelopment/wiki/Pagination) ([code](https://github.com/yicui/sample_app_php/commit/7b2a12ced2c7582c4ad2a5e8a5ca40d511a97fc0))
+
+[PHP Refactoring and Model View Controller Pattern](https://github.com/yicui/webdevelopment/wiki/PHP-Refactoring-and-Model-View-Controller-Pattern) ([code](https://github.com/yicui/sample_app_php/commit/16c899ca23a21a8055caf00d8c62b72804fce15d))
