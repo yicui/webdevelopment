@@ -21,3 +21,5 @@ Lectures:
 [Pagination](https://github.com/yicui/webdevelopment/wiki/Pagination) ([code](https://github.com/yicui/sample_app_php/commit/7b2a12ced2c7582c4ad2a5e8a5ca40d511a97fc0))
 
 [PHP Refactoring and Model View Controller Pattern](https://github.com/yicui/webdevelopment/wiki/PHP-Refactoring-and-Model-View-Controller-Pattern) ([code](https://github.com/yicui/sample_app_php/commit/16c899ca23a21a8055caf00d8c62b72804fce15d))
+
+[User Account Administration](https://github.com/yicui/webdevelopment/wiki/User-Account-Administration) ([code](https://github.com/yicui/sample_app_php/commit/e5a89664ee9214c334a47796311ff2cfcddd8f58))
